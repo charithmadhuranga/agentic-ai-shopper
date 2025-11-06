@@ -42,8 +42,7 @@ The **Agentic AI Shopping Assistant** is a next-generation autonomous system des
 
 ---
 
-Absolutely! Here’s that entire section beautifully formatted and structured in **modern, professional Markdown style**, perfect for your `README.md`.
-It uses icons, spacing, code highlighting, and note formatting for clarity 👇
+
 
 ---
 
@@ -211,9 +210,6 @@ If you experiment with automating payment steps:
 
 ---
 
-Got it 👍 — here’s your **updated, clean, and beautiful markdown** version of the installation section using **`uv`** instead of `pip` and **without** a `requirements.txt` file.
-
----
 
 # ⚙️ Installation Guide
 
